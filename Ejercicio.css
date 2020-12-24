@@ -1,0 +1,126 @@
+.parrafo1 {
+    border:red dotted 2px;
+}
+
+.titulo2 {
+    background-color: skyblue;
+    width: 300px;
+}
+
+.parrafo3 {
+    background-color: skyblue;
+    padding: 1em;
+}
+
+.titulo4 {
+    background-color: skyblue;
+    height: 80px;
+}
+
+.parrafo5 {
+    background-color: skyblue;
+    width: 400px;
+}
+
+.parrafo6 {
+    background-color: skyblue;
+    width: 400px;
+    padding: 20px;
+}
+
+.parrafo7 {
+    background-color: skyblue;
+    width: 400px;
+    padding: 20px;
+    border: blue solid 20px;
+}
+
+.parrafo8 {
+    background-color: skyblue;
+    width: 400px;
+    padding: 20px;
+    border: blue solid 20px;
+    margin-left: 20px;
+}
+.titulo9 {
+    color:blue;
+}
+
+.parrafo9 {
+    color:red;
+}
+
+.titulo10{
+    text-align: center;
+}
+
+.parrafo11 {
+    text-indent:20px;
+    width: 400px;
+}
+
+.titulo12 {
+    text-transform: uppercase;
+}
+
+.titulo13 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.parrafo14 {
+    font-style: italic;
+}
+
+.titulo15 {
+    font-size: 3em;
+}
+.parrafo15 {
+    font-size: 1.5em;
+}
+
+.parrafo16 {
+    font-weight: bold;
+}
+
+.parrafo17{
+    font-size: large;
+}
+
+.titulo18 {
+    width: 500px;
+    text-align:center;
+}
+.parrafo18 {
+    border: solid 20px skyblue;
+    padding: 20px;
+    width: 420px;
+    text-transform: capitalize;
+    font-weight: bold;
+    text-align: center;
+ }
+.caja19 {
+    border: solid 30px skyblue;
+    padding: 20px;
+    width: 420px;
+    height: 180px;    
+    
+ }
+.parrafo19 {
+    display:block;
+    background-color: skyblue;
+    margin: 60px auto;
+    width:240px;
+    align-self: center;    
+    text-align: center;
+
+}
+
+.titulo19 {
+    text-align: center;
+    width:500px;
+} 
+.parrafo19 span {
+    color: green;
+    font-size: 2em;
+    font-weight: bold;
+}
